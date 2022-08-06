@@ -1,0 +1,17 @@
+{
+  "name": "proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vercel": "^27.3.7"
+  },
+  "dependencies": {
+    "http-proxy-middleware": "^2.0.6"
+  }
+}
